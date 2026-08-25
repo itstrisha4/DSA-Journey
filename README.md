@@ -1,6 +1,6 @@
-# 🚀 My DSA Journey — Apna College
+# 🚀 My DSA Journey 
 
-Welcome to my Data Structures & Algorithms journey with **Apna College**.
+Welcome to my Data Structures & Algorithms journey 
 
 This repository contains my Java DSA practice, problem-solving journey, notes, and progress tracking.
 
