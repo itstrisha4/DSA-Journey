@@ -8,7 +8,7 @@ This repository contains my Java DSA practice, problem-solving journey, notes, a
 
 ## 📚 Course
 
-**Course:** Apna College — Alpha (Java)
+**Course:** Apna College — Alpha 8.0 (Java)
 
 **Language:** Java ☕
 
@@ -16,30 +16,8 @@ This repository contains my Java DSA practice, problem-solving journey, notes, a
 
 ---
 
-## 📊 My Progress
 
-| Topic | Status |
-|---|---|
-| Java Basics | ⬜ Not Started |
-| Arrays | ⬜ Not Started |
-| Strings | ⬜ Not Started |
-| Bit Manipulation | ⬜ Not Started |
-| Recursion | ⬜ Not Started |
-| Divide & Conquer | ⬜ Not Started |
-| Backtracking | ⬜ Not Started |
-| ArrayList | ⬜ Not Started |
-| Linked List | ⬜ Not Started |
-| Stack | ⬜ Not Started |
-| Queue | ⬜ Not Started |
-| Binary Trees | ⬜ Not Started |
-| BST | ⬜ Not Started |
-| Heap / Priority Queue | ⬜ Not Started |
-| Hashing | ⬜ Not Started |
-| Trie | ⬜ Not Started |
-| Graphs | ⬜ Not Started |
-| Dynamic Programming | ⬜ Not Started |
 
----
 
 ## 🗂️ Repository Structure
 
