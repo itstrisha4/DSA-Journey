@@ -8,7 +8,7 @@ This repository contains my Java DSA practice, problem-solving journey, notes, a
 
 ## 📚 Course
 
-**Course:** Apna College — Alpha 8.0 (Java)
+
 
 **Language:** Java ☕
 
