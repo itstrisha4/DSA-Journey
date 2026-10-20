@@ -5,10 +5,6 @@ public static void sort(int num[]){
        int j=i-1;
      while(j>=0 && num[j]>key){
 
-            
-         
-
-
 num[j+1]=num[j];
 
 j--;
