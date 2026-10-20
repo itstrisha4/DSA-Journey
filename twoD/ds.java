@@ -1,6 +1,12 @@
 public class ds {
     public static void dm(int num[][]){
+        int sum=0;
+for(int i=0;i<num.length;i++){
+    
+    sum=sum+num[i][i];
+    sum=sum+num[i][num.length-1-i];
 
+}System.out.println(sum);
     }
      public static void main(String args[]){
          int num[][] = {
@@ -11,4 +17,5 @@ public class ds {
 
         };
         dm(num);
+}
 }
